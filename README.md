@@ -1,12 +1,17 @@
-### Hello world, I am Camilla! 👋
-Anime | Creative Writing | Health & Wellness
+### 👋 Hello world, I am Camilla!
+Data Science | Travel | Anime | Creative Writing | Health & Wellness
+she/her
 
-I am a 22 year old student based in New York, NY. I am currently studying Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. I enjoy using statistical techniques and coding to learn more about the real world. 
+I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. I enjoy learning more statistical techniques and am interested in improving my coding skills to learn more about the real world. 
 
-My current favorite topic is machine learning, but I am interested in learning more data visualization techniques, SQL, and time series data analysis.
+🔭 Work and Academics:
+
+My current favorite topic is machine learning, but I am interested in learning data visualization techniques, SQL, and time series analysis.
 
 - I am currently learning: Machine learning with Python, spatial statistics with QGIS, R, and Python, and survey methodology
 - Languages: R, Python, Java
+
+⚡ Fun facts:
 - Movie: Before Sunrise
 - TV Show: Fleabag
 - Song: Southern Nights by Whitney
