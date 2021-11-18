@@ -8,7 +8,7 @@ I am a 22 year old student based in New York City. Currently, I study Quantitati
 
 My current favorite topic is machine learning, but I am interested in learning data visualization techniques, SQL, and time series analysis.
 
-- I am currently learning: Machine learning with Python, spatial statistics with QGIS, R, and Python, and survey methodology
+- I am currently learning: Machine learning with Python, spatial statistics (with QGIS, R, and Python), and regression and probability models with R
 - Languages: R, Python, Java
 
 ⚡ Fun facts:
