@@ -1,4 +1,4 @@
-### 👋 Hello world, I am Camilla!
+### 👋 Welcome to my github!
 Data Science | Research | Social Impact | She/her
 
 
