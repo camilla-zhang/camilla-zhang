@@ -8,7 +8,7 @@ I am a 22 year old student based in New York City. Currently, I study Quantitati
 
 I am currently working on: Creating different types of data visualizations with R, applied mashine learning, and investigating social structures through networks.
 
-- In the past I have learned: Machine learning with Python, spatial statistics with QGIS/R/Python, and regression and probability models with R/Python
+- In the past I have learned: Machine learning with Python, spatial data analysis with QGIS/R/Python, and regression and probability models with R/Python
 - Languages: R, Python, Java
 
 ⚡ Fun facts:
