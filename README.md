@@ -6,16 +6,16 @@ I am a 22 year old student based in New York City. Currently, I study Quantitati
 
 🔭 Work and Academics:
 
-My current favorite topic is machine learning, but I am interested in learning data visualization techniques, SQL, and time series analysis.
+I am currently working on: Creating different types of data visualizations with R, applied mashine learning, and investigating social structures through networks.
 
-- I am currently learning: Machine learning with Python, spatial statistics with QGIS/R/Python, and regression and probability models with R/Python
+- In the past I have learned: Machine learning with Python, spatial statistics with QGIS/R/Python, and regression and probability models with R/Python
 - Languages: R, Python, Java
 
 ⚡ Fun facts:
-- Movie: Before Sunrise
-- TV Show: Fleabag
-- Song: Southern Nights by Whitney
-- Food: Anything to do with black truffles
+- Movie: before sunrise
+- TV Show: fleabag & bojack horseman
+- Song: southern nights by whitney
+- Food: all thai food
 
 <!--
 **cz2673/cz2673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
