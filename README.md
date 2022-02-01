@@ -1,12 +1,12 @@
 ### 👋 Welcome to my github!
-Data Science | Research | Social Impact | She/her
+Data Science | Research | International Political Economy | She/her
 
 
-I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. I enjoy learning more statistical techniques and am interested in improving my coding skills to learn more about the real world. 
+I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. I enjoy learning more statistical techniques and am interested in improving my coding skills to learn how to improve international organizations. 
 
 🔭 Work and Academics:
 
-I am currently working on: Creating different types of data visualizations with R, applied mashine learning, and investigating social structures through networks.
+I am currently working on: Creating different types of data visualizations with R and deep layer neural networks
 
 - In the past I have learned: Machine learning with Python, spatial data analysis with QGIS/R/Python, and regression and probability models with R/Python
 - Languages: R, Python, Java
