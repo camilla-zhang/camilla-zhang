@@ -1,5 +1,5 @@
 ### 👋 Welcome to my github!
-Political Methodology | International Political Economy | Comparative Politics | She/her
+Political Methodology | International Political Economy | She/her
 
 
 I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. Now, I am learning statistical techniques and refining my programming skills to study female politicians and how they have contributed towards international development and international organizations. 
