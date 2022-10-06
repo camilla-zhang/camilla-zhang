@@ -4,18 +4,18 @@ Political Methodology | International Political Economy | She/her
 
 I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. Now, I am learning statistical techniques and refining my programming skills to study preferential trade agreements and its effects on incumbent support
 
-🔭 Work and Academics:
+### Here you can find my recently completed projects where I apply my data science skills to study meaningful issues. These projects were submitted to my graduate-level courses at QMSS Columbia University ~
 
-I am currently working on: Creating different types of data visualizations with R and deep layer neural networks
+___
 
-- In the past I have learned: Machine learning with Python, spatial data analysis with QGIS/R/Python, and regression and probability models with R/Python
-- Languages: R, Python, Java
+* Visualizing US Partisanship
+* Predicting COVID Positive X-Rays: A machine learning approach
+* The impact of female leaders on country-level corruption
+* Does crime influence percieved school safety in NYC public schools?
+___
 
-⚡ Fun facts:
-- Movie: before sunrise
-- TV Show: fleabag & bojack horseman
-- Song: southern nights by whitney
-- Food: all thai food
+> *"I want to continue modeling and do the best that I can with that."* - __Kendall Jenner__
+
 
 <!--
 **cz2673/cz2673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
