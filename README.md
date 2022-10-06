@@ -1,4 +1,4 @@
-### 👋 Welcome to my github!
+### 👋 welcome to my github!
 Political Methodology | International Political Economy | She/her
 
 
