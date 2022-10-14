@@ -9,7 +9,7 @@ I am a 22 year old student based in New York City. Currently, I study Quantitati
 ___
 
 * Visualizing US Partisanship
-* Predicting COVID Positive X-Rays: A machine learning approach
+* Predicting COVID Positive X-Rays: A neural network approach
 * Does crime influence percieved school safety in NYC public schools?
 * Data story of Airbnbs in NYC
 ___
