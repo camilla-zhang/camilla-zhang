@@ -1,4 +1,4 @@
-### 👋 welcome to my github!
+### ✨ welcome to my github✨
 Artificial Intelligence | Political Methodology | International Political Economy | She/her
 
 
