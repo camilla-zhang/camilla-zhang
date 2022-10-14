@@ -4,13 +4,6 @@ Artificial Intelligence | Political Methodology | International Political Econom
 
 I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. 
 
-### Currently working on:
-___
-* Accessing databases via SQL, work with APIs, creating Python packages, storing data with AWS, etc.
-* Time series techniques (survival analysis, fixed effects, forecasting techniques, etc)
-* A practicum project with a consulting firm to build a model that captures the optimal balance between survey responses and profitability
-* Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
-
 ### Here you can find my recently completed projects where I apply my data science skills ~
 
 ___
@@ -22,6 +15,13 @@ ___
 * Data story of Airbnbs in NYC *(R)*
 * Detecting clickbait using sentiment analysis and logistic regression *(Python)*
 * Classifying rose images by disease type: A neural network approach *(Python)*
+
+### Currently working on:
+___
+* Accessing databases via SQL, work with APIs, creating Python packages, storing data with AWS, etc.
+* Time series techniques (survival analysis, fixed effects, forecasting techniques, etc)
+* A practicum project with a consulting firm to build a model that captures the optimal balance between survey responses and profitability
+* Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
 ___
 
 > *"I want to continue modeling and do the best that I can with that."* - __Kendall Jenner__
