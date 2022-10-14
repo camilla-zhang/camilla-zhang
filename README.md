@@ -8,10 +8,10 @@ I am a 22 year old student based in New York City. Currently, I study Quantitati
 ___
 * Accessing databases via SQL, work with APIs, creating Python packages, storing data with AWS, etc.
 * Time series techniques (survival analysis, fixed effects, forecasting techniques, etc)
-* A Practicum project with a consulting firm to build a model that gets the optimal balance between survey responses and profitability
+* A practicum project with a consulting firm to build a model that gets the optimal balance between survey responses and profitability
 * Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
 
-### Here you can find my recently completed projects where I apply my data science skills to study meaningful issues. These projects were submitted to my graduate-level courses at QMSS Columbia University ~
+### Here you can find my recently completed projects where I apply my data science skills to study relevant issues. These projects were submitted to my graduate-level courses at QMSS Columbia University ~
 
 ___
 
