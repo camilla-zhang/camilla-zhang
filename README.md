@@ -10,7 +10,6 @@ ___
 
 * Visualizing US Partisanship
 * Predicting COVID Positive X-Rays: A machine learning approach
-* The impact of female leaders on country-level corruption
 * Does crime influence percieved school safety in NYC public schools?
 ___
 
