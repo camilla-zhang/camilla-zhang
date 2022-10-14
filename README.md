@@ -11,7 +11,7 @@ ___
 * A practicum project with a consulting firm to build a model that gets the optimal balance between survey responses and profitability
 * Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
 
-### Here you can find my recently completed projects where I apply my data science skills to study relevant issues. These projects were submitted to my graduate-level courses at QMSS Columbia University ~
+### Here you can find my recently completed projects where I apply my data science skills ~
 
 ___
 
