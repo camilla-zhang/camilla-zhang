@@ -2,7 +2,7 @@
 Artificial Intelligence | Political Methodology | International Political Economy | She/her
 
 
-I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. Now, I am learning statistical techniques and refining my programming skills to study preferential trade agreements and its effects on incumbent support
+I am a 22 year old student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. Currently, I am building on my quantitative techniques and using time series models to study the effects of preferential trade agreements on incumbent support
 
 ### Here you can find my recently completed projects where I apply my data science skills to study meaningful issues. These projects were submitted to my graduate-level courses at QMSS Columbia University ~
 
