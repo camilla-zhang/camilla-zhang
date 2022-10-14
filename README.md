@@ -1,8 +1,6 @@
 ### ✨ welcome to my github✨
 Artificial Intelligence | Political Methodology | International Political Economy | She/her
-
-
-I am a 23 y/o student based in New York City. Currently, I study Quantitative Methods in the Social Sciences at Columbia University. I recently received my undergraduate diploma from New York University, where I majored in International Relations and double minored in Chinese and Data Science. 
+ 
 
 ### Here you can find my recently completed projects where I apply my data science skills ~
 
