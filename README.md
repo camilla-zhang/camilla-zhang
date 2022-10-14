@@ -11,6 +11,7 @@ ___
 * Visualizing US Partisanship
 * Predicting COVID Positive X-Rays: A machine learning approach
 * Does crime influence percieved school safety in NYC public schools?
+* Data story of Airbnbs in NYC
 ___
 
 > *"I want to continue modeling and do the best that I can with that."* - __Kendall Jenner__
