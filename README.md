@@ -10,7 +10,7 @@ ___
 
 * Visualizing US Partisanship
 * Predicting COVID Positive X-Rays: A neural network approach
-* Does crime influence percieved school safety in NYC public schools?
+* Does nearby crime have an impact on school attendance in NYC public schools?
 * Data story of Airbnbs in NYC
 ___
 
