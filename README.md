@@ -17,8 +17,11 @@ ___
 
 * Visualizing US Partisanship
 * Predicting COVID Positive X-Rays: A neural network approach
+* Unsupervised technique approach to determine what makes a high quality red wine 
 * Does nearby crime have an impact on school attendance for NYC public schools?
 * Data story of Airbnbs in NYC
+* Detecting clickbait using sentiment analysis and logistic regression
+* Classifying rose images by disease type: A neural network approach
 ___
 
 > *"I want to continue modeling and do the best that I can with that."* - __Kendall Jenner__
