@@ -8,7 +8,7 @@ ___
 
 * Visualizing US Partisanship *(R Shiny)*
 * Predicting COVID Positive X-Rays: A neural network approach *(Python)*
-* Unsupervised technique approach to determine what makes a high quality red wine *(Python)*
+* What makes a high quality red wine? *(Python)*
 * Does nearby crime have an impact on school attendance for NYC public schools? *(QGIS, Python)*
 * Data story of Airbnbs in NYC *(R)*
 * Detecting clickbait using sentiment analysis and logistic regression *(Python)*
