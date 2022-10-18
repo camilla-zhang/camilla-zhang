@@ -12,7 +12,7 @@ ___
 * Does nearby crime have an impact on school attendance for NYC public schools? *(QGIS, Python)*
 * Data story of Airbnbs in NYC *(R)*
 * Detecting clickbait using sentiment analysis and logistic regression *(Python)*
-* Classifying rose images by disease type: A neural network approach *(Python)*
+* Classifying rose images by disease type using neural networks *(Python)*
 
 ### Currently working on:
 ___
