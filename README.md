@@ -2,7 +2,7 @@
 Artificial Intelligence | Political Methodology | International Political Economy | She/her
  
 
-### Here you can find my recently completed projects where I apply my data science skills ~
+### Here you can find my recently completed projects ~
 
 ___
 
