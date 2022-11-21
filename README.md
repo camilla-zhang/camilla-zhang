@@ -1,5 +1,5 @@
 ### ✨ welcome to my github✨
-Artificial Intelligence | Methodology | International Political Economy | She/her
+Artificial Intelligence | Quantitative Methodology | International Political Economy | She/her
  
 
 ### Here you can find my recently completed projects ~
