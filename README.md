@@ -16,9 +16,6 @@ ___
 
 ### Currently working on:
 ___
-* Accessing databases via SQL, working with APIs, creating Python packages, storing data with AWS, etc.
-* Time series techniques (survival analysis, fixed effects, forecasting techniques, etc)
-* A practicum project with a consulting firm to build a model that captures the optimal balance between survey responses and profitability
 * Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
 ___
 
