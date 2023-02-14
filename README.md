@@ -1,5 +1,5 @@
 ### ✨ welcome to my github✨
-Artificial Intelligence | Quantitative Methodology | She/her
+Social Data Scientist | She/her
  
 
 ### Here you can find my recently completed projects ~
