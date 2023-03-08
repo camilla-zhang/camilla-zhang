@@ -3,7 +3,6 @@ Social Data Scientist | She/her
 
 ### Currently working on:
 ___
-* Credit Card Fraud Detection: Detecting fraud with European transactional data and ML techniques
 *  Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
 ___
 
