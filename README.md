@@ -3,7 +3,7 @@ Social Data Scientist | She/her
 
 ### Currently working on:
 ___
-*  Masters Thesis: Building time series models to study the effects of preferential trade agreements on incumbent support
+*  Masters Thesis: The effects of trade liberalization on presidential support: A fixed effects analysis
 ___
 
 > *"I want to continue modeling and do the best that I can with that."* - __Kendall Jenner__
